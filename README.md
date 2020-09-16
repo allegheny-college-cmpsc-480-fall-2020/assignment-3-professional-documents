@@ -48,6 +48,7 @@ By the end of this activity you should have completed a full draft of whichever 
   * is included in this repository as a `.pdf` or `.docx` file (preferably a `.pdf` to preserve your formatting) in the `writing` directory
 2. A text-only version of the résumé as a `.txt` or `.rtf` file
 3. Draft work completed as part of class activities in the `draft` folder
+4. A copy of the original posting that you used to tailor this document
 
 ### C.V.
 
@@ -57,6 +58,7 @@ By the end of this activity you should have completed a full draft of whichever 
   * is included in this repository as a `.pdf` or `.docx` file (preferably a `.pdf` to preserve your formatting) in the `writing` directory
 2. A text-only version of the resume as a `.txt` or `.rtf` file
 3. Draft work completed as part of class activities in the `draft` folder
+4. A copy of the original posting/program requirements that you used to tailor this document
 
 
 ## Preparation for activities
@@ -64,6 +66,8 @@ By the end of this activity you should have completed a full draft of whichever 
 ### 18 September
 
 #### Résumé
+
+Tailoring the following toward an opporunity you found during exploration done for `Assignment 2` or another discovered since then:
 
 Either:
 
@@ -82,10 +86,12 @@ Based on your work experience, have in mind [which type of résumé]((https://ca
   * chronological
   * functional
   * combined
+  
+As you continue to work toward finishing this assignment, make decisions guided by the opportunity post you've chosen for the interim deadlines.
 
 #### C.V.
 
-This work does not need to be formatted; it should likely just be a bullet-pointed list.
+This work does not need to be formatted; it should likely just be a bullet-pointed list. Tailoring it toward an opporunity you found during exploration done for `Assignment 2` or another discovered since then. As you continue to work toward finishing this assignment, make decisions guided by that opportunity posting.
 
  * A list of all applicable sections which might appear on your C.V.
   * Use the list of recommended sections provided by [the UNC Writing Center guide](https://writingcenter.unc.edu/tips-and-tools/curricula-vitae-cvs-versus-resumes/)
